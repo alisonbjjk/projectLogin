@@ -166,5 +166,3 @@
 //     echo '<hr>';
 // }
 // echo exer();
-
-// TESTE

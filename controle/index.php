@@ -166,7 +166,3 @@
 //     echo '<hr>';
 // }
 // echo exer();
-
-// TESTE
-// TESTE2
-// TESTE3

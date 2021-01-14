@@ -156,3 +156,14 @@
 // echo '<br>';
 // echo '<br>';
 // echo teste();
+
+
+// function exer()
+// {
+//     $a = '200' ;
+//     echo '<hr>';
+//     echo ("-9%: ". ($a * 0.91));
+//     echo '<hr>';
+// }
+// echo exer();
+
